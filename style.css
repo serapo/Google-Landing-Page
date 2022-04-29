@@ -1,0 +1,180 @@
+li{
+    list-style-type: none;
+    display: inline-block;          
+}
+ *{
+    
+     margin-left: 0%;
+     padding-left: 0%;
+     margin-top: 0%;
+     margin-bottom: 0%;
+ }
+a{
+   text-decoration: none;
+}
+a:hover{
+   color: none;
+   text-decoration: underline;
+}
+.menusag{
+position:inherit;
+float: right;
+margin-top: 15px;
+}
+.menusol{
+ float:left;
+}
+#menuimg{
+text-decoration: none;
+padding-left: 10px;
+padding-right: 10px;
+}
+#signin{
+text-align: center;
+width: 80px;
+height: 25px;
+color:white;
+background-color: blue;
+margin-top: 4px;
+border:none;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+.menusag2{
+position:inherit;
+float: right;
+margin-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.menusag3{
+position:inherit;
+float: right;
+margin-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.menusol{
+
+float: left;
+margin-top: 20px;
+margin-left: 15px;
+}.menusol2{
+
+float: left;
+margin-top: 20px;
+margin-left: 15px;
+}
+.logo{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+    padding-left: 130px;
+    float: center;
+   
+   }
+   .search{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid lightgray;
+    border-radius: 30px;
+    width: 570px;
+    margin-left: 900px;
+    
+   }
+   
+   #search{
+       width: 450px;
+       height: 50px;
+       margin-left: 0px;
+       /* border-radius: 40px 40px 40px 40px; */
+     border:0.5px solid lightgray;
+      border: none;
+      /* border-right: none; */
+      outline: none;
+    
+       
+}
+#searchlogo{ 
+    width: 50px;
+    height: 45px;
+    border-radius: 40px 0px 00px 40px;
+    /* border:1px solid lightgray; */
+    border: none;
+}
+#google_microphone{
+    
+    width: 15px;
+    height: 30px;
+    border-radius: 0px 40px 40px 0px;
+    /* border:1px solid lightgray; */
+    border: none;
+    padding-right: 1px;
+}
+.search2{       
+    text-align: center;
+  
+   
+}
+#btn1{
+    height: 36px;
+width: 120px;
+border: hidden;
+border-radius: 4px;
+color: #5f6368;
+margin-right: 8px;
+
+}
+
+#btn2{
+    height: 36px;
+width: 120px;
+border: hidden;
+border-radius: 4px;
+color: #5f6368;
+margin-right: 8px;
+}
+.translate{
+    text-align: center;
+    /* font-size: small; */
+    margin-bottom: 400px;
+}
+#translate2
+{
+    text-decoration: underline;
+    
+}
+.footersol{
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5f6368;
+}
+.footersağ{
+    float:right;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #f2f2f2;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5f6368;
+}
+
+.altsıra{
+   margin-top: 10px;
+   color: #5f6368;
+}
+.turkey{
+   padding-left: 10px;
+   background-color: #f2f2f2;
+   color: #5f6368;
+   border-bottom: 1px solid #e4e4e4;
+   padding-bottom: 10px;
+   
+}
