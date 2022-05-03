@@ -19,10 +19,12 @@ a:hover{
 .menusag{
 position:inherit;
 float: right;
+color: #5f6368;
 /* margin-top: 15px; */
 }
 .menusol{
  float:left;
+ color: #5f6368;
 }
 #menuimg{
 text-decoration: none;
@@ -48,6 +50,7 @@ float: right;
 padding-left: 10px;
 padding-right: 10px;
 padding-top: 6px;
+color: #5f6368;
 }
 .menusag3{
 position:inherit;
@@ -55,9 +58,13 @@ float: right;
 padding-top: 6px;
 padding-left: 10px;
 padding-right: 10px;
+color: #5f6368;
+}
+a:visited{
+    color: #5f6368;
 }
 .menusol{
-
+    color: #5f6368;
 float: left;
 /* margin-top: 20px;
 margin-left: 15px; */
@@ -80,6 +87,7 @@ margin-left: 15px;
    }
 .menü{
     margin: auto;
+    color: #5f6368;
 }   
 .search{
     
@@ -104,8 +112,7 @@ margin-left: 15px;
       border: none;
       /* border-right: none; */
       outline: none;
-    
-       
+
 }
 #searchlogo{ 
     width: 50px;
@@ -150,7 +157,9 @@ margin-right: 8px;
 .translate{
     text-align: center;
     /* font-size: small; */
-    margin-bottom: 15%;
+    /* margin-bottom: ; */
+    padding-bottom: 210px;
+    position: relative;
 
 }
 #translate2
@@ -191,3 +200,18 @@ margin-right: 8px;
     padding-right: 5px;
     /* display: inline-block; */
 }
+.altsıra4:hover{
+    color: #5f6368;
+
+}
+.altsıra4{
+    color: #5f6368;
+  
+}
+.altsıra:visited{
+    color: #5f6368;
+}
+footer{
+    display: fixed;
+}
+  
