@@ -17,6 +17,15 @@ a:hover{
    color: #5f6368;
    text-decoration: underline;
 }
+a:link{
+    color:#5f6368;
+}
+a:visited{
+    color: #5f6368;
+}
+a:active{
+    color: #5f6368;
+}
 
 
 .menusag{
