@@ -18,6 +18,11 @@ a:hover{
    color: none;
    text-decoration: underline;
 }
+a:link {background-color:#5f6368; text-decoration:none;}
+a:visited {background-color:#5f6368; text-decoration:none;}
+a:hover {background-color:#5f6368; text-decoration:none;}
+a:active {background-color:#5f6368; text-decoration:none;}
+
 .menusag{
 position:inherit;
 float: right;
@@ -216,4 +221,8 @@ margin-right: 8px;
 footer{
     display: fixed;
 }
+.altsıra4:link {background-color:#5f6368; text-decoration:none;}
+.altsıra4:visited {background-color:#5f6368; text-decoration:none;}
+.altsıra4:hover {background-color:#5f6368; text-decoration:none;}
+.altsıra4:active {background-color:#5f6368; text-decoration:none;}
   
