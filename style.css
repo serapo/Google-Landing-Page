@@ -15,7 +15,7 @@ a{
    
 }
 a:hover{
-   color: none;
+   color:5f6368;
    text-decoration: underline;
 }
 a:link {background-color:#5f6368; text-decoration:none;}
