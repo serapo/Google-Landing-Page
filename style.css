@@ -19,7 +19,7 @@ a:hover{
 .menusag{
 position:inherit;
 float: right;
-margin-top: 15px;
+/* margin-top: 15px; */
 }
 .menusol{
  float:left;
@@ -44,41 +44,47 @@ padding-right: 10px;
 .menusag2{
 position:inherit;
 float: right;
-margin-top: 20px;
+/* margin-top: 20px; */
 padding-left: 10px;
 padding-right: 10px;
+padding-top: 6px;
 }
 .menusag3{
 position:inherit;
 float: right;
-margin-top: 20px;
+padding-top: 6px;
 padding-left: 10px;
 padding-right: 10px;
 }
 .menusol{
 
 float: left;
-margin-top: 20px;
-margin-left: 15px;
+/* margin-top: 20px;
+margin-left: 15px; */
 }.menusol2{
 
 float: left;
-margin-top: 20px;
-margin-left: 15px;
+/* margin-top: 20px; */
+margin-left: 15px; 
 }
 .logo{
     align-items: center;
     display: flex;
     justify-content: center;
-    padding-top: 250px;
-    padding-left: 130px;
+    /* margin-top:10%; */
+    /* padding-left: 130px; */
     float: center;
-   
+    padding-top: 10%;
+    padding-left: 13%;
+
    }
-   .search{
+.menü{
+    margin: auto;
+}   
+.search{
     
-    /* display: flex; */
-    /* justify-content: center; */
+    display: flex;
+    justify-content: center;
     align-items: center;
     border:1px solid lightgray;
     border-radius: 30px;
@@ -89,7 +95,7 @@ margin-left: 15px;
     
    }
    
-   #search{
+#search{
        width: 450px;
        height: 50px;
        /* margin-left: 0px; */
@@ -120,6 +126,7 @@ margin-left: 15px;
 .search2{       
     text-align: center;
   
+  
    
 }
 #btn1{
@@ -143,40 +150,44 @@ margin-right: 8px;
 .translate{
     text-align: center;
     /* font-size: small; */
-    margin-bottom: 400px;
+    margin-bottom: 15%;
+
 }
 #translate2
 {
     text-decoration: underline;
     
 }
-.footersol{
-    float: left;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: #5f6368;
-}
-.footersağ{
-    float:right;
-    padding-left: 10px;
-    padding-right: 10px;
-    background-color: #f2f2f2;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: #5f6368;
-}
-
 .altsıra{
-   margin-top: 10px;
+  
    color: #5f6368;
+   background-color: #f2f2f2;
+   display: inline-block;
+   padding-top: 0%;
+    margin: 0%;
+    width: 100%;
+    padding-bottom: 0%;
+    
 }
 .turkey{
-   padding-left: 10px;
    background-color: #f2f2f2;
    color: #5f6368;
-   border-bottom: 1px solid #e4e4e4;
-   padding-bottom: 10px;
+   border-bottom: 1px solid #e4e4e4; 
+   /* margin-bottom: 0%; */
+   height: 20px;
+}
+.altsıra2{
+    padding-top: 0%;
+    margin-top: 0%;
+    float: left;
+    padding-right: 5px;
    
+    /* display: inline-block; */
+}
+.altsıra3{
+    padding-top: 0%;
+    margin-top: 0%;
+    float:right;
+    padding-right: 5px;
+    /* display: inline-block; */
 }
