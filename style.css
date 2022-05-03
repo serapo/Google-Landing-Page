@@ -11,6 +11,8 @@ li{
  }
 a{
    text-decoration: none;
+   color: #5f6368;
+   
 }
 a:hover{
    color: none;
