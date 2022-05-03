@@ -11,17 +11,14 @@ li{
  }
 a{
    text-decoration: none;
-   color: #5f6368;
+  
    
 }
 a:hover{
-   color:5f6368;
+  
    text-decoration: underline;
 }
-a:link {background-color:#5f6368; text-decoration:none;}
-a:visited {background-color:#5f6368; text-decoration:none;}
-a:hover {background-color:#5f6368; text-decoration:none;}
-a:active {background-color:#5f6368; text-decoration:none;}
+
 
 .menusag{
 position:inherit;
@@ -218,11 +215,11 @@ margin-right: 8px;
 .altsıra:visited{
     color: #5f6368;
 }
+.altsıra:link{
+    color: #5f6368;
+}
 footer{
     display: fixed;
 }
-.altsıra4:link {background-color:#5f6368; text-decoration:none;}
-.altsıra4:visited {background-color:#5f6368; text-decoration:none;}
-.altsıra4:hover {background-color:#5f6368; text-decoration:none;}
-.altsıra4:active {background-color:#5f6368; text-decoration:none;}
+
   
