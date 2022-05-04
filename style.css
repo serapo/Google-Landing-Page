@@ -141,6 +141,7 @@ margin-left: 15px;
     /* border:1px solid lightgray; */
     border: none;
     padding-right: 1px;
+    cursor:pointer;
 }
 .search2{       
     text-align: center;
@@ -149,7 +150,7 @@ margin-left: 15px;
    
 }
 #btn1{
-    height: 36px;
+height: 36px;
 width: 120px;
 border: hidden;
 border-radius: 4px;
@@ -170,13 +171,14 @@ margin-right: 8px;
     text-align: center;
     /* font-size: small; */
     /* margin-bottom: ; */
-    padding-bottom: 210px;
+    padding-bottom: 200px;
     position: relative;
 
 }
 #translate2
 {
     text-decoration: underline;
+    color:blue;
     
 }
 .altsıra{
@@ -184,7 +186,7 @@ margin-right: 8px;
    color: #5f6368;
    background-color: #f2f2f2;
    display: inline-block;
-   padding-top: 0%;
+   padding-top: 1rem;
     margin: 0%;
     width: 100%;
     padding-bottom: 0%;
@@ -195,19 +197,29 @@ margin-right: 8px;
    color: #5f6368;
    border-bottom: 1px solid #e4e4e4; 
    /* margin-bottom: 0%; */
-   height: 20px;
+   /* height: 20px; */
+   position: relative;
+   padding-bottom: 0.5rem;
+   vertical-align: middle;
+   padding-top: 4px;
+   
 }
+footer{
+    display: fixed;
+}
+
 .altsıra2{
-    padding-top: 0%;
-    margin-top: 0%;
+    /* padding-top: 0%;
+    margin-top: 0%; */
     float: left;
     padding-right: 5px;
+    
    
     /* display: inline-block; */
 }
 .altsıra3{
-    padding-top: 0%;
-    margin-top: 0%;
+    /* padding-top: 0%;
+    margin-top: 0%; */
     float:right;
     padding-right: 5px;
     /* display: inline-block; */
@@ -218,6 +230,8 @@ margin-right: 8px;
 }
 .altsıra4{
     color: #5f6368;
+    padding-bottom: 0.5rem;
+
   
 }
 .altsıra:visited{
@@ -226,8 +240,8 @@ margin-right: 8px;
 .altsıra:link{
     color: #5f6368;
 }
-footer{
-    display: fixed;
+.altsıra{
+    padding-top: 3px;
 }
 
 
