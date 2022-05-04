@@ -92,10 +92,11 @@ margin-left: 15px;
     justify-content: center;
     /* margin-top:10%; */
     /* padding-left: 130px; */
-    float: center;
+    /* float: center; */
     padding-top: 10%;
-    /* padding-left: 13%; */
-    display: fixed;
+    padding-left: auto;
+    padding-right: auto; 
+    /* display: fixed; */
 
    }
 .menü{
