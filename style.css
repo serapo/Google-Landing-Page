@@ -87,14 +87,14 @@ float: left;
 margin-left: 15px; 
 }
 .logo{
-    align-items: center;
+    /* align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content: center; */
     /* margin-top:10%; */
-    padding-left: 130px;
+    /* padding-left: 130px; */
     /* float: center; */
-    padding-top: 10%;
-    padding-left: auto;
+     padding-top: 10%;
+    padding-left: 33rem; 
     padding-right: auto; 
     /* display: fixed; */
   
